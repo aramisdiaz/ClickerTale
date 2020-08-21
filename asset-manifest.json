@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ClickerTale/static/css/main.a1576cbc.chunk.css",
+    "main.js": "/ClickerTale/static/js/main.613457f7.chunk.js",
+    "main.js.map": "/ClickerTale/static/js/main.613457f7.chunk.js.map",
+    "runtime-main.js": "/ClickerTale/static/js/runtime-main.1c019c9c.js",
+    "runtime-main.js.map": "/ClickerTale/static/js/runtime-main.1c019c9c.js.map",
+    "static/js/2.aa000a34.chunk.js": "/ClickerTale/static/js/2.aa000a34.chunk.js",
+    "static/js/2.aa000a34.chunk.js.map": "/ClickerTale/static/js/2.aa000a34.chunk.js.map",
+    "index.html": "/ClickerTale/index.html",
+    "precache-manifest.3b66f2191124a6185ee8eb1332aea693.js": "/ClickerTale/precache-manifest.3b66f2191124a6185ee8eb1332aea693.js",
+    "service-worker.js": "/ClickerTale/service-worker.js",
+    "static/css/main.a1576cbc.chunk.css.map": "/ClickerTale/static/css/main.a1576cbc.chunk.css.map",
+    "static/js/2.aa000a34.chunk.js.LICENSE.txt": "/ClickerTale/static/js/2.aa000a34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c019c9c.js",
+    "static/js/2.aa000a34.chunk.js",
+    "static/css/main.a1576cbc.chunk.css",
+    "static/js/main.613457f7.chunk.js"
+  ]
+}
